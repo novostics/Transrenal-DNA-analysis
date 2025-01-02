@@ -35,7 +35,7 @@ cell_types = {
 }
 
 # Define the total number for the constant denominator, which were calculated by the simulation results
-total_number = 14405156
+total_number = 13108692
 
 # Read the labels file
 labels_file = 'sample.info' ### sample name and label
